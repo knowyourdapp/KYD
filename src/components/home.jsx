@@ -32,7 +32,7 @@ const Home = () => {
 
       <div className="flex flex-col md:flex-row gap-4  clipped-bg">
         <div className="flex-1 text-white rounded md:p-20 p-10">
-          <h1 className="text-left md:text-3xl lg:text-3xl text-2xl">Curates dApps with </h1>
+          <h1 className="text-left md:text-3xl lg:text-3xl text-2xl">Curates dApps </h1>
           <h1 className="font-bold md:text-3xl lg:text-6xl text-2xl">KYD rating system</h1>
           <p className="text-lg mt-5">Tired of shallow and shady data reviews? Go thru intricate dApps analysis with our KYD Rating System. Dive deeper for real data and better decisions</p>
         </div>
